@@ -26,6 +26,8 @@
 		5E53DCE126C189EE00D0A73D /* UIStoryboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E53DCE026C189EE00D0A73D /* UIStoryboard.swift */; };
 		5E53DCE326C18B2200D0A73D /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E53DCE226C18B2200D0A73D /* String.swift */; };
 		5E53DCE526C18B2A00D0A73D /* UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E53DCE426C18B2A00D0A73D /* UIImage.swift */; };
+		5E53DCE926C19B0800D0A73D /* ANFExploreCardViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E53DCE826C19B0800D0A73D /* ANFExploreCardViewModelTests.swift */; };
+		5E53DCEB26C19BF500D0A73D /* productstub.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E53DCEA26C19BF500D0A73D /* productstub.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +64,8 @@
 		5E53DCE026C189EE00D0A73D /* UIStoryboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIStoryboard.swift; sourceTree = "<group>"; };
 		5E53DCE226C18B2200D0A73D /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 		5E53DCE426C18B2A00D0A73D /* UIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImage.swift; sourceTree = "<group>"; };
+		5E53DCE826C19B0800D0A73D /* ANFExploreCardViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ANFExploreCardViewModelTests.swift; sourceTree = "<group>"; };
+		5E53DCEA26C19BF500D0A73D /* productstub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = productstub.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +127,8 @@
 			children = (
 				3E727EE92672708B006C11AC /* ANFExploreCardTableViewControllerTests.swift */,
 				3E727EEB2672708B006C11AC /* Info.plist */,
+				5E53DCE826C19B0800D0A73D /* ANFExploreCardViewModelTests.swift */,
+				5E53DCEA26C19BF500D0A73D /* productstub.swift */,
 			);
 			path = "ANF Code TestTests";
 			sourceTree = "<group>";
@@ -369,6 +375,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E53DCE926C19B0800D0A73D /* ANFExploreCardViewModelTests.swift in Sources */,
+				5E53DCEB26C19BF500D0A73D /* productstub.swift in Sources */,
 				3E727EEA2672708B006C11AC /* ANFExploreCardTableViewControllerTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
